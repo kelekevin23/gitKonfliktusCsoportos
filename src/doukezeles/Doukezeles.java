@@ -16,7 +16,9 @@ public class Doukezeles {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String nev1, nev2;
+        String nev1;
+        String nev2;
+        nev2="Marci";
     }
     
 }
